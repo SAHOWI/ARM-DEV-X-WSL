@@ -8,7 +8,7 @@
 .section	.text
 
 _start:
-	mov r15, #64      # load Value 64 to register R15
+	mov r15, #64
 
 
 
