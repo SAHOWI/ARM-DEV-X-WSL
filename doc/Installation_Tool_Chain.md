@@ -37,3 +37,8 @@ pacman -S mingw-w64-x86_64-arm-none-eabi-gcc
 
 ## Configure MS Visual Studio Code
 
+# References
+Instalaltion of MSYS and MinGW                      https://www.msys2.org/
+Installation of ARM Toolchain                       https://packages.msys2.org/package/mingw-w64-x86_64-arm-none-eabi-gcc-ada
+Installation of C++ PlugIn to MS Visual Studio Code https://code.visualstudio.com/docs/languages/cpp
+
